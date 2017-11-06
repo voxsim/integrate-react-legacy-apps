@@ -1,4 +1,4 @@
-**Integrating Reat with legacy  applications**
+**Integrating React with legacy  applications**
 
 # The so feared migration
 
